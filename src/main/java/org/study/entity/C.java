@@ -41,6 +41,7 @@ public class C implements Serializable {
     public void setName(String name) {
         this.name = name;
     }
+    int i=0;
 
 }
 
